@@ -1,0 +1,14 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly declare text files you want to always normalize
+*.java text
+*.properties text
+*.xml text
+*.jsp text
+
+# Denote all the files that are truly binary and should not be modified
+*.jpg binary
+*.png binary
+*.gif binary
+*.zip binary
